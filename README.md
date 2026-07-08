@@ -8,9 +8,9 @@
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
-</div>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/641c2b170466977.645e34a7760bf.gif" alt="Coding Keyboard GIF" width="6000"/>
+</p>
 
 <h3 align="center">🚀 BTech AI & Data Science (GGSIPU '27) | Full-Stack + ML Engineer | Open Source @GSSoC'26</h3>
 
